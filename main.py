@@ -9,8 +9,8 @@ import os
 
 TOKEN = ""
 MODEL_PATH = "yolo.h5"
-INPUT_IMAGE = "imagen.jpg"  
-OUTPUT_IMAGE = "imagen_detectada.jpg"
+INPUT_IMAGE = "Imagenes\imagen.jpg"  
+OUTPUT_IMAGE = "Imagenes\imagen_detectada.jpg"
 
 
 intents = discord.Intents.default()
@@ -54,3 +54,4 @@ async def detectar(ctx):
     await ctx.send("🧠 Análisis completado por AgroAI 🌿")
 
 bot.run(TOKEN)
+
