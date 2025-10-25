@@ -16,8 +16,7 @@ Para ello, pulse Mayús + Ctrl + P -> Seleccionar intérprete, y busque la opci�
  pipenv install imageai==2.1.6
  
 <img width="884" height="393" alt="imagen" src="https://github.com/user-attachments/assets/28693058-0ac7-41ad-9800-cc2ec4070c30" />
-<br>
-
+<br></br>
 Como funciona el bot
 
 <img width="196" height="56" alt="imagen" src="https://github.com/user-attachments/assets/ce68a202-96a4-42fa-a7e0-c2b3055a6e7f" />
