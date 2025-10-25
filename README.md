@@ -12,6 +12,7 @@ Como funciona el bot
 <img width="490" height="394" alt="imagen" src="https://github.com/user-attachments/assets/8317a3e9-ff3a-4f79-9901-6ef4ac6386a4" />
 
 Recomendaciones
+
 *Crear un entorno virttual en la carpeta.
 *Después de crear el entorno virtual, tienes que seleccionarlo. Para ello, pulse Mayús + Ctrl + P -> Seleccionar intérprete, y busque la opción que tiene el mismo nombre que su proyecto.
 
