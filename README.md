@@ -11,6 +11,7 @@ Como funciona el bot
 <img width="332" height="258" alt="imagen" src="https://github.com/user-attachments/assets/5872ef03-7e22-432f-9f6b-66f772309f93" />
 <img width="490" height="394" alt="imagen" src="https://github.com/user-attachments/assets/8317a3e9-ff3a-4f79-9901-6ef4ac6386a4" />
 
+
 Recomendaciones
 
 *Crear un entorno virttual en la carpeta.
