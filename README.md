@@ -13,8 +13,8 @@ Como funciona el bot
 <p></p>
 Recomendaciones
 
-*Crear un entorno virttual en la carpeta.
-<p>Después de crear el entorno virtual, tienes que seleccionarlo. <br>
+<p>Crear un entorno virttual en la carpeta.
+Después de crear el entorno virtual, tienes que seleccionarlo. <br>
 Para ello, pulse Mayús + Ctrl + P -> Seleccionar intérprete, y busque la opción que tiene el mismo nombre que su proyecto.</p>
 
 *Instalar las siguientes biblotecas:
